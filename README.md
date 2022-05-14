@@ -42,6 +42,6 @@
 <div>
   <a href="https://www.linkedin.com/in/matheus-dumont-63605121b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
   
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Dumont19/blob/output/github-contribution-grid-snake.gif)
   
 </div>

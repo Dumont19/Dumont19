@@ -21,6 +21,8 @@
 
 <img align="center" alt="Gon-HxH" height="150" style="border-radius: 50px" src="https://c.tenor.com/v4Uc7G0eKPYAAAAM/yu-gi-oh-yugi-mutou.gif">
 
+It's time to code!
+
 ##
 
 <div align="center">

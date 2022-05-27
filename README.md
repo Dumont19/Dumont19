@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a freelance graphic designer.
 
-- 🌱 I’m currently learning TypeScript/JavaScript,HTML, CSS, React JS, Node JS, MongoDB and PostgreSQL.
+- 🌱 I’m currently learning TypeScript/JavaScript, React JS, Node JS, MongoDB and PostgreSQL.
 
 - Curiosities about me:
 

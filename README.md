@@ -13,7 +13,7 @@
 
 - I play guitar 🎸
 
-- I love watch movies an series 🍿
+- I love watch movies and series 🍿
 
 - Sometimes I write poems ✒️
 

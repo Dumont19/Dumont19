@@ -1,11 +1,11 @@
 ### Hello World!!
 
-### I'm Matheus Dumont, graphic designer and front-end developer.
+### I'm Matheus Dumont, a software developer.
 
 
 - 🔭 I’m currently working as a freelance graphic designer.
 
-- 🌱 I’m currently learning TypeScript/JavaScript, React JS, Node JS, MongoDB and PostgreSQL.
+- 🌱 I’m currently learning TypeScript/JavaScript, Python, React.js, Next,js, Node.js, MongoDB and MySQL.
 
 - Curiosities about me:
 
